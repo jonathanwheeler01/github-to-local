@@ -8,4 +8,4 @@ Etc.
 
 ## Methods
 
-We did some research. We identified the model for the data.
+We did some research. We identified the model for the data. It was a really good one!
