@@ -5,3 +5,7 @@ Text here.
 ## Introduction
 
 Etc.
+
+## Methods
+
+We did some research.
