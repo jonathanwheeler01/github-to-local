@@ -8,4 +8,4 @@ Etc.
 
 ## Methods
 
-We did some research. Our data didn't fit the model etc.
+We did some research.
