@@ -1,6 +1,6 @@
 # Ignore output figures
 *.png  # ignore png files anywhere in the repo 
-figures/  # ignore everything in the figures directory
+figures\  # ignore everything in the figures directory
 
 # History files
 .Rhistory
