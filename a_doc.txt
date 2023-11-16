@@ -8,4 +8,5 @@ Etc.
 
 ## Methods
 
-We did some research. We identified the model for the data. It was something we read about!
+We did some research. We identified the model for the data. We referred to experts.
+
